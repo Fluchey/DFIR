@@ -1,3 +1,5 @@
+#This script collects relevant logs and saves them to a folder on the users desktop
+
 Write-Output "----- SCRIPT STARTED -----"
 
 #Check if script is running as Administrator
